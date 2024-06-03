@@ -1,0 +1,15 @@
+/*
+Theme Name: My Custom Theme
+Author: Your Name
+Description: A custom WordPress theme with specific title styles.
+Version: 1.0
+*/
+
+h1 {
+    color: #FF5733; /* Red color for h1 */
+}
+
+h2 {
+    color: #33FF57; /* Green color for h2 */
+}
+
